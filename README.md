@@ -1,5 +1,5 @@
 # Vexvault
-VexVault is a web app that helps VEX Robotics teams track and manage their parts inventory.
+Vexvault is a web app that helps VEX Robotics teams track and manage their parts inventory.
 
 ## Features
 - Add, edit, and delete VEX parts

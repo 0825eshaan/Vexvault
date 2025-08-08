@@ -3,7 +3,7 @@ Vexvault is a web app that helps VEX Robotics teams track and manage their parts
 
 ## Features
 - Add, edit, and delete VEX parts
-- Organize PARTS by category
+- Organize parts by category
 - Search and filter by name, type, or quantity
 - Low-stock alerts
 - Custom parts support
